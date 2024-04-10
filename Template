@@ -1,0 +1,15 @@
+**Cadastrar Item Extra (“IE”) (Menu Cadastros)**     | Selecionar para qual grupo o item cadastrado aparecerá        👍 Bem sucessido   
+                                                 | Mostrar acréscimo na lista e na escolha de IE na hora do pedido 👍Bem sucedido  
+
+A experiencia aqui se mostrou um pouco confusa, não entendi muito bem para que serve o item extra.
+--------------------------------------------------------------------------------------------------------------------
+**Pedido para ENTREGA com novo cadastro**          | Imprimir corretamente os dados do cliente e do pedido             
+TESTE MAL SUCEDIDO, NÃO POSSUO IMPRESSORA IMPENDINDO O TESTE.
+--------------------------------------------------------------------------------------------------------------------
+**Pedido para ENTREGA com cliente existente**      | Mostrar pendura existente já na tela de entrada     👍 Bem sucessido  
+                                                | Mostrar Observações e Restrições existentes já na tela de entrada 👍 Bem sucessido
+                                                |Imprimir corretamente os dados do cliente e do pedido              👎Não possuo impressora, *contudo Sat caindo.*
+                                                |Preservação dos dados originais do cliente         👍 Bem sucessido 
+---------------------------------------------------------------------------------------------------------------------
+
+
