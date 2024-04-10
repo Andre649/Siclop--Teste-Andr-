@@ -1,15 +1,36 @@
-**Cadastrar Item Extra (“IE”) (Menu Cadastros)**     | Selecionar para qual grupo o item cadastrado aparecerá        👍 Bem sucessido   
+**Cadastrar Item Extra (“IE”) (Menu Cadastros)** | Selecionar para qual grupo o item cadastrado aparecerá        👍 Bem sucessido   
                                                  | Mostrar acréscimo na lista e na escolha de IE na hora do pedido 👍Bem sucedido  
 
 A experiencia aqui se mostrou um pouco confusa, não entendi muito bem para que serve o item extra.
 --------------------------------------------------------------------------------------------------------------------
-**Pedido para ENTREGA com novo cadastro**          | Imprimir corretamente os dados do cliente e do pedido             
-TESTE MAL SUCEDIDO, NÃO POSSUO IMPRESSORA IMPENDINDO O TESTE.
+**Pedido para ENTREGA com novo cadastro**       | Imprimir corretamente os dados do cliente e do pedido            👎Não possuo impressora, *contudo Sat caindo.* 
+
 --------------------------------------------------------------------------------------------------------------------
-**Pedido para ENTREGA com cliente existente**      | Mostrar pendura existente já na tela de entrada     👍 Bem sucessido  
+**Pedido para ENTREGA com cliente existente**   | Mostrar pendura existente já na tela de entrada     👍 Bem sucessido  
                                                 | Mostrar Observações e Restrições existentes já na tela de entrada 👍 Bem sucessido
                                                 |Imprimir corretamente os dados do cliente e do pedido              👎Não possuo impressora, *contudo Sat caindo.*
                                                 |Preservação dos dados originais do cliente         👍 Bem sucessido 
 ---------------------------------------------------------------------------------------------------------------------
 
+**Pedido para ENTREGA com cliente existente e alteração de endereço**        | Imprimir corretamente os dados do cliente e do pedido 👎Não possuo impressora, *contudo Sat caindo.*
+
+--------------------------------------------------------------------------------------------------------------------
+
+**Pedido para ENTREGA com cliente existente e alteração de TAXA**            | Imprimir corretamente os dados do cliente e do pedido 👎 Teste mal sucedido, botão de cobrança de taxas
+Não funcionando, edição de valores, adição de cobrança também não funcionando, impossibilitado de imprimir, falta de impressora.
+Fiz um teste, só é possivel ajustar os valores se clicarmos na opção adicionar item.
+--------------------------------------------------------------------------------------------------------------------
+
+**Pedido para ENTREGA com cliente existente e outro endereço para entrega** | Imprimir corretamente os dados do cliente e do pedido  👍 Bem sucessido
+                                                                            |Preservação dos dados originais do cliente 👎Teste mal sucedido
+--------------------------------------------------------------------------------------------------------------------
+**Pedidos diversos**                                                        |Operações com itens diversos           👍 Bem sucessido 
+                                                                            | Operações com pizzas                  👍 Bem sucessido 
+                                                                            |Operações com pizzas combinadas         👍 Bem sucessido 
+                                                                            | Operações com pizzas Broto, Média, Gigante e combinadas entre si 👍 Bem sucessido 
+                                                                            | Operações com IE nas diversas pizzas e produtos diversos 👎Teste mal sucedido
+
+Não foi possivel descrever o item extra bem como alterar o valor.
+
+-------------------------------------------------------------------------------------------------------------------
 
